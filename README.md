@@ -1,5 +1,3 @@
----
-
 # Git Branching and Merging Operations
 
 ## Overview
@@ -35,4 +33,3 @@ This repository serves as a practice ground for understanding and mastering bran
 - Chokkapu Monisha
 
 ---
-
